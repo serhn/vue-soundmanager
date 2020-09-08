@@ -13,7 +13,7 @@
 </template>
 
 <script>
-import VueSoundmanager from "vue-soundmanager";
+import VueSoundmanager from "@serh/vue-soundmanager";
 export default {
   data: function () {
     return {
