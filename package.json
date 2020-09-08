@@ -1,5 +1,5 @@
 {
-  "name": "vue-soundmanager",
+  "name": "@serh/vue-soundmanager",
   "version": "1.0.0",
   "description": "Sound component to play audio in your web apps. Backed by the mighty soundmanager2 library.",
   "main": "dist/vue-soundmanager.umd.js",
@@ -36,6 +36,11 @@
     "vue",
     "vue-compoment",
     "sound",
+    "audio",
+    "player",
+    "mp3",
+    "mpeg4",
+    "html5",
     "soundmanager2"
   ],
   "author": "Serhii Nikolaichuk",

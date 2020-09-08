@@ -4,7 +4,7 @@ Sound component to play audio in your web apps. Backed by the mighty [soundmanag
 
 ## How to install
 
-`npm install vue-soundmanager --save`
+`npm install  @serh/vue-soundmanager --save`
 
 ## Example
 
