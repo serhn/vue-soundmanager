@@ -1,6 +1,6 @@
 {
   "name": "@serh/vue-soundmanager",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Sound component to play audio in your web apps. Backed by the mighty soundmanager2 library.",
   "main": "dist/vue-soundmanager.umd.js",
   "module": "dist/vue-soundmanager.esm.js",
