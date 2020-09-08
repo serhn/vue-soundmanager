@@ -1,6 +1,6 @@
 {
   "name": "@serh/vue-soundmanager",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Sound component to play audio in your web apps. Backed by the mighty soundmanager2 library.",
   "main": "dist/vue-soundmanager.umd.js",
   "module": "dist/vue-soundmanager.esm.js",
@@ -13,9 +13,9 @@
   },
   "scripts": {
     "build": "npm run build:umd & npm run build:es & npm run build:unpkg",
-    "build:umd": "rollup --config build/rollup.config.js --format umd --file dist/my-component.umd.js",
-    "build:es": "rollup --config build/rollup.config.js --format es --file dist/my-component.esm.js",
-    "build:unpkg": "rollup --config build/rollup.config.js --format iife --file dist/my-component.min.js"
+    "build:umd": "rollup --config build/rollup.config.js --format umd --file dist/vue-soundmanager.umd.js",
+    "build:es": "rollup --config build/rollup.config.js --format es --file dist/vue-soundmanager.esm.js",
+    "build:unpkg": "rollup --config build/rollup.config.js --format iife --file dist/vue-soundmanager.min.js"
   },
   "dependencies": {
     "soundmanager2": "^2.97.20170602"
